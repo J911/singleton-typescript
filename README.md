@@ -1,0 +1,2 @@
+# singleton-typescript
+Learn singleton 👨🏻‍💻
